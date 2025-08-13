@@ -121,7 +121,7 @@ Amaç, problem çözme becerilerini ve temel veri yapısı kavramlarını pekiş
    ```bash
    git clone https://github.com/kullanici/DataStructuresLabs.git
    cd DataStructuresLabs
-````
+   ````
 
 2. İstediğiniz lab dosyasını derleyin:
 
