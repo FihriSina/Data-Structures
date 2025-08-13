@@ -46,7 +46,7 @@ The aim is to strengthen problem-solving skills and understanding of core data s
    ```bash
    git clone https://github.com/username/DataStructuresLabs.git
    cd DataStructuresLabs
-````
+   ````
 
 2. Compile any lab file:
 
@@ -146,4 +146,3 @@ Amaç, problem çözme becerilerini ve temel veri yapısı kavramlarını pekiş
 
 Bu proje **MIT Lisansı** ile lisanslanmıştır. Detaylar için [LICENSE](LICENSE) dosyasına bakabilirsiniz.
 
-```
